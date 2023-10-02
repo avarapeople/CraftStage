@@ -1,0 +1,5 @@
+{
+    "filter_paths": "(lib/|test/|node_modules/)",
+    "compile_force_framework": "forge",
+    "fail_high": true
+}
