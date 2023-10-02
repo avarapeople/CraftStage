@@ -8,4 +8,4 @@ Welcome to our Smart Contract Craft Tasks Hub! This little corner of GitHub is w
 
 ### Happy Crafting 🚀
 
-Remember, while this showcase is here to inspire, please refrain from copying or directly replicating the work of previous candidates.
+Remember, while this hub is here to inspire, please refrain from copying or directly replicating the work of previous candidates.
